@@ -2,11 +2,30 @@
   "dependencies": {
     "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.12",
+    "pkg": "^5.8.0",
     "pupeteer": "^0.0.1",
     "puppeteer": "^15.5.0",
     "puppeteer-extra": "^3.3.4",
     "puppeteer-extra-plugin-adblocker": "^2.13.4",
     "puppeteer-extra-plugin-stealth": "^2.11.0",
     "sharp": "^0.30.7"
-  }
+  },
+  "name": "merge",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huuthang1133/autodownload-handle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huuthang1133/autodownload-handle/issues"
+  },
+  "homepage": "https://github.com/huuthang1133/autodownload-handle#readme",
+  "description": ""
 }
